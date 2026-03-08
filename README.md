@@ -13,7 +13,7 @@ Power Bi - Built interactive dashboard and visualized insights
 - beverage-preferences-dashboard.pbix — Power BI dashboard
 - beverage_pref.csv — Dataset used for analysis
 - beverage_preferences.sql — SQL queries used for filtering and aggregations
-- screenshot-dashboard.png — Preview of the dashboard
+- beverage-analysis-dashboard.png — Preview of the dashboard
 - README.md — Project documentation
 
 
