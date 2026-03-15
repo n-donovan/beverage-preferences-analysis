@@ -13,7 +13,7 @@ CREATE TABLE beverage_preferences(
 );
 
 #Import 'beverage_pref.csv' file from Excel. 
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/beverage_pref.csv'
+LOAD DATA INFILE 'beverage_pref.csv'
 INTO TABLE beverage_preferences
 FIELDS TERMINATED BY ','
 IGNORE 1 ROWS;
